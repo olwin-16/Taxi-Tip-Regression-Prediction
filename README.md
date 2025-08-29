@@ -70,8 +70,8 @@ The comparative study demonstrates that the IBM Snap ML library accelerates trai
 ## Setup & Installation
 
 ```bash
-git clone https://github.com/your-username/taxi-tip-prediction.git
-cd taxi-tip-prediction
+git clone https://github.com/olwin-16/Taxi-Tip-Regression-Prediction.git
+cd Taxi-Tip-Regression-Prediction
 ```
 ```bash
 pip install -r requirements.txt
