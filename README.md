@@ -37,7 +37,7 @@ The objective is to compare the **speed** and **accuracy** of both libraries by 
 <br>
 <br>
 
-- **Histogram** analysis showed the majority of tips were between** 0 and 5 dollars**, with a **long right tail**.
+- **Histogram** analysis showed the majority of tips were between **0** and **5 dollars**, with a **long right tail**.
 - Minimum tip was **$0.01**, maximum **$53.00** per trip.
 - **90%** of tips were below or equal to **$5.15**, indicating a **highly skewed distribution**.
 
