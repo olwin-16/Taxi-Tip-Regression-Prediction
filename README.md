@@ -32,10 +32,9 @@ The objective is to compare the **speed** and **accuracy** of both libraries by 
 
 ## Tip Amount Distribution
 
-<br>
-
 <img width="569" height="413" alt="image" src="https://github.com/user-attachments/assets/dbf16b3f-5630-4525-bbc3-90725a3b88ef" />
 
+<br>
 <br>
 
 - **Histogram** analysis showed the majority of tips were between** 0 and 5 dollars**, with a **long right tail**.
